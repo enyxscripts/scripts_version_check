@@ -1,1 +1,4 @@
-{ version: '1.0.0', New: 'scripts have been well improved!'}
+{
+  "version": "1.0.0",
+  "New": "scripts have been well improved!"
+}
